@@ -9,7 +9,7 @@ ___
 ### Método
 
 ___
-### Parámetros obligatorios
+### Parámetros
 
 ##### Headers
 
